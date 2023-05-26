@@ -5,6 +5,7 @@
     <li style="color: #F5F5F5">Я Junior frontend-разработчик (React).</li>    
     <li style="color: #F5F5F5">Прошел обучение в Нетологии(12 месяцев).</li>
     <li style="color: #F5F5F5">После чего прошел стажировку в Alfa-Campus(Alfa-Bank)(4 месяца).</li>
+    <li style="color: #F5F5F5"><img src="https://www.codewars.com/users/Sportsmanzao4nick/badges/micro" alt="CodeWars"/></li>    
   </ul>
 </section>
 
@@ -16,7 +17,6 @@
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/javascript.svg" width="35" height="35" style="max-width: 100%" alt="JS"/>
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/react.svg" width="35" height="35" style="max-width: 100%" alt="React.js"/>
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/redux.svg" width="35" height="35" style="max-width: 100%" alt="Redux"/>
-    <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/github.svg" width="35" height="35" style="max-width: 100%" alt="github"/>
-    <img src="https://www.codewars.com/users/Sportsmanzao4nick/badges/micro" alt="CodeWars"/>
+    <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/github.svg" width="35" height="35" style="max-width: 100%" alt="github"/>    
   </div>
 </section>
