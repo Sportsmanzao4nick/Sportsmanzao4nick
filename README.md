@@ -17,5 +17,6 @@
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/react.svg" width="35" height="35" style="max-width: 100%" alt="React.js"/>
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/redux.svg" width="35" height="35" style="max-width: 100%" alt="Redux"/>
     <img src="https://github.com/Sportsmanzao4nick/Sportsmanzao4nick/blob/main/img/github.svg" width="35" height="35" style="max-width: 100%" alt="github"/>
+    <img src="https://www.codewars.com/users/Sportsmanzao4nick/badges/micro" alt="CodeWars"/>
   </div>
 </section>
