@@ -2,7 +2,7 @@
 <section>
   <h2 align="left" style="color: #F5F5F5">Обо мне: </h2>
   <ul align="left" style="padding: 0">
-    <li style="color: #F5F5F5">Я Junior frontend-разработчик (React).</li>    
+    <li style="color: #F5F5F5">Я frontend-разработчик (React).</li>    
     <li style="color: #F5F5F5">Прошел обучение в Нетологии(12 месяцев).</li>
     <li style="color: #F5F5F5">После чего прошел стажировку в Alfa-Campus(Alfa-Bank)(4 месяца).</li>
     <li style="color: #F5F5F5"><img src="https://www.codewars.com/users/Sportsmanzao4nick/badges/small" alt="CodeWars"/></li>    
